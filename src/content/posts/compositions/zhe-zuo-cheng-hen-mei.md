@@ -1,16 +1,13 @@
 ---
 title: 这座城，很美
-author: Liquorice
-pubDatetime: 2026-8-15T22:15:00Z
-featured: true
-draft: false
-slug: zhe-zuo-cheng-hen-mei
+description: "六年级暑假作文 - 这座城，很美"
+pubDatetime: 2026-08-15T22:15:00+08:00
+modDatetime: 2026-08-15T22:30:00+08:00
 tags:
   - 记叙文
   - Composition
-description:
-  "六年级暑假作文 - 这座城，很美"
-timezone: "Asia/Shanghai"
+draft: false
+featured: true
 ---
 
 上海，在许多外乡人眼里，是现代、快节奏的代名词。的确，作为繁荣的金融中心，一眼望去尽是蓝绿色的玻璃幕墙，线条硬朗，尽显理性。
