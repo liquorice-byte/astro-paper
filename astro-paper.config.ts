@@ -30,7 +30,7 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "github",   url: "https://github.com/liquorice-byte" },
-    { name: "bilibili", url: "https://bilibili.com/liquorice-byte" },
+    { name: "bilibili", url: "https://space.bilibili.com/3493136917596917" },
     // { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
     { name: "mail",     url: "mailto:liquorice-byte@outlook.com" },
   ],

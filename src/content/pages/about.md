@@ -24,4 +24,4 @@ That's it, maybe.
 
 ## Contact
 
-Feel free to contact me on [bilibili](bilibili.com/liquorice-byte) or by [e-mail](mailto:liquorice-byte@outlook.com).
+Feel free to contact me on [bilibili](https://space.bilibili.com/3493136917596917) or by [e-mail](mailto:liquorice-byte@outlook.com).
