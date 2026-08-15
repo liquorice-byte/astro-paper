@@ -1,5 +1,5 @@
 ---
-title: 这座城，很美
+title: The city, the beautiful city
 author: Liquorice
 pubDatetime: 2026-8-15T22:15:00Z
 featured: true
