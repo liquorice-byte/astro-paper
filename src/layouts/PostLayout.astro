@@ -1,6 +1,7 @@
 ---
 import Layout from "./Layout.astro";
 import config from "@/config";
+import Comment from "@components/comment.astro"
 
 type Props = {
   title?: string;
@@ -32,7 +33,7 @@ const structuredData = {
   ],
 };
 ---
-
+<Comment />
 <Layout {title} {description} {ogImage} {canonicalURL}>
   <Fragment slot="head">
     <!-- Override og:type for article pages -->
