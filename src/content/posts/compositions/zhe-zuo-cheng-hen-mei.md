@@ -9,7 +9,7 @@ tags:
   - Composition
 description:
   "六年级暑假作文 - 这座城，很美"
-timezone: "Asia/Yangon"
+timezone: "Asia/Shanghai"
 ---
 
 上海，在许多外乡人眼里，是现代、快节奏的代名词。的确，作为繁荣的金融中心，一眼望去尽是蓝绿色的玻璃幕墙，线条硬朗，尽显理性。
