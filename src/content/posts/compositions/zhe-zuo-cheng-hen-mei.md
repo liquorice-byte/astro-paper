@@ -1,9 +1,10 @@
 ---
-title: The city, the beautiful city
+title: 这座城，很美
 author: Liquorice
 pubDatetime: 2026-8-15T22:15:00Z
 featured: true
 draft: false
+slug: zhe-zuo-cheng-hen-mei
 tags:
   - 记叙文
   - Composition
