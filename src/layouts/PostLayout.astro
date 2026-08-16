@@ -1,7 +1,7 @@
 ---
 import Layout from "./Layout.astro";
 import config from "@/config";
-import Comment from "@/components/comment.astro"
+import Comments from "@/components/comment"
 
 type Props = {
   title?: string;
@@ -33,7 +33,7 @@ const structuredData = {
   ],
 };
 ---
-<Comment />
+<Comments client:only="react" />
 <Layout {title} {description} {ogImage} {canonicalURL}>
   <Fragment slot="head">
     <!-- Override og:type for article pages -->

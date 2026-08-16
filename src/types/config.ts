@@ -6,7 +6,7 @@ interface SiteConfig {
   /** Short description used in SEO meta and RSS feed */
   description: string;
   /** Default post author name */
-  author: string;
+    author: string;
   /** Author profile URL (used in structured data) */
   profile?: string;
   /** Fallback OG image filename in /public, e.g. "og.jpg" */
